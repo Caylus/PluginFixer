@@ -1,0 +1,19 @@
+{
+    "type": "addon",
+    "key": "PluginFixer",
+    "description": "Automatically creates addon.json file, and tries to fix filename/class issues. Upload ZIP file containing Vanilla 2.3 plugin, and download 'fixed' version of plugin. YMMV.",
+    "mobileFriendly": false,
+    "name": "PluginFixer",
+    "version": "1.0",
+    "settingsUrl": "/settings/pluginfixer",
+    "usePopupSettings":false,
+    "authors": [
+        {
+            "name": "Caylus",
+            "homepage": "https://open.vanillaforums.com/profile/Caylus"
+        }
+    ],
+    "require": {
+        "Vanilla": ">=2.5"
+    }
+}
